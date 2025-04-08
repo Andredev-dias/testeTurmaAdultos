@@ -1,3 +1,24 @@
 .tittle{
     color: red;
 }
+
+.s1{
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2vh;
+}
+
+.crdzao{
+    background-color: blue;
+}
+
+@media (width >= 1000px){
+    
+.s1{
+    background-color: black;
+}
+
+}
