@@ -1,0 +1,10 @@
+.backBtn{
+    color: #090909;
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+.backBtn:hover{
+    opacity: 1;
+    text-decoration: underline;
+}
